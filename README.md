@@ -1,6 +1,8 @@
 # PhoneGap Plugin BarcodeScanner
 ================================
 
+Support Android 12+, tested with cordova-android 12.0.0
+
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
 
 Cross-platform BarcodeScanner for Cordova / PhoneGap.
